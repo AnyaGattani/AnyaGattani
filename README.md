@@ -26,7 +26,7 @@ applications and contributing to open-source projects.
 - Email: anyagattani10@gmail.com
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?AnyaGattani=AnyaGattani)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
 <!---
 AnyaGattani/AnyaGattani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
